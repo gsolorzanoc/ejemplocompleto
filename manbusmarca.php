@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>MARCAS REGISTRADAS</title>
+	<title>MARCAS ENCONTRADA</title>
 </head>
 <body>
 <center>

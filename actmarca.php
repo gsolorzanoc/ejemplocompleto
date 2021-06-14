@@ -14,6 +14,8 @@
 		<tr>
 			<td>Ingrese id de la marca</td>
 			<td><input type="text" name="id"></td>
+		</tr>
+		<tr>
 			<td>Ingrese nombre de la marca</td>
 			<td><input type="text" name="nom"></td>
 		</tr>

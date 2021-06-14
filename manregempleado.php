@@ -1,0 +1,15 @@
+<?php
+
+$n = $_POST["nom"];
+$p = $_POST["pue"];
+$s = $_POST["sue"];
+
+include "conexion.php";
+include "encabezado.php";
+
+mysqli_query($c, "insert into empleado(nombreEmpleado, puestoEmpleado, sueldoEmpleado) values('$n','$p','$s')");
+
+echo "dato registrado<br>";
+echo "<a href='indexempleado.php'>volver al menu de empleados</a>";
+
+?>
