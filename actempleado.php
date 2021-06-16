@@ -13,7 +13,7 @@
 	<table>
 		<tr>
 			<td>Ingrese id del empleado</td>
-			<td><input type="text" name="id"></td>
+			<td><input type="number" name="id"></td>
 		</tr>
 		<tr>
 			<td>Ingrese nombre del empleado</td>
